@@ -13,7 +13,7 @@ use Illuminate\Support\Facades\Route;
 |
 */
 Route::get("/",function(){
-	echo "Hallo Dunia a";
+	echo "Hallo Dunia";
 });
 
 Route::get("/login","MainController@login");
