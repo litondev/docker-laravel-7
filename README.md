@@ -1,4 +1,4 @@
-<h1>Docker Laravel Nuxt</h1>
+<h1>Docker Laravel</h1>
 
 <b> Purpose : </b>
  <p>
